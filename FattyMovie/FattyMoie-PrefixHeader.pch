@@ -1,0 +1,36 @@
+//
+//  FattyMoie-PrefixHeader.pch
+//  FattyMovie
+//
+//  Created by luo on 16/3/3.
+//  Copyright © 2016年 luo. All rights reserved.
+//
+
+#ifndef FattyMoie_PrefixHeader_pch
+#define FattyMoie_PrefixHeader_pch
+
+
+// 屏幕宽度
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+
+// 屏幕高度
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#include "CDMovieAPI.h"
+#include "UIImage+Util.h"
+#include "AFHTTPSessionManager+Util.h"
+#include "UIImageView+Util.h"
+#include "CDDetailViewController.h"
+#include "CDDetailModel.h"
+#include "CDDetailCell.h"
+
+#include <SVProgressHUD.h>
+#include <MJRefresh.h>
+#include <YYModel.h>
+#include <UIImageView+WebCache.h>
+#include <BmobSDK/Bmob.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* FattyMoie_PrefixHeader_pch */
