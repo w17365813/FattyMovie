@@ -2,7 +2,7 @@
 //  NewFeatureViewController.h
 //  CD1507WB
 //
-//  Created by HeHui on 16/2/26.
+//  Created by luo on 16/2/26.
 //  Copyright (c) 2016年 Hawie. All rights reserved.
 //
 

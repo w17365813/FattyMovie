@@ -3,7 +3,7 @@
 //  1505BmobDemo
 //
 //  Created by HeHui on 16/1/7.
-//  Copyright (c) 2016年 Hawie. All rights reserved.
+//  Copyright (c) 2016年 luo. All rights reserved.
 //
 
 #import "Tool.h"
